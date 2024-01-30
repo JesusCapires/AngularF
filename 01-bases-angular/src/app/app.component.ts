@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'curso_angular';
+  public counter: number =10;
+  increaseBY(value: string): void{
+    value == 'inc'? this.counter +=1: this.counter -=1;
+  }
 }
