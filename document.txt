@@ -1,3 +1,13 @@
 Postman: plataforma usada para probar APIS con diferentes metodos HTTP
 Giphy developers: plataforma usada para obtener la API y poder usar su GIFS
 quicktype: plataforma para modificar objeto json a código del lenguaje elegido
+
+PÁGINA DE SVG LOADERS
+https://samherbert.net/svg-loaders/
+
+REPO DE SVG LOADERS 
+https://github.com/SamHerbert/SVG-Loaders/blob/master/svg-loaders/ball-triangle.svg?short_path=9d839f3
+
+ANIMACIONES CSS 
+https://animate.style/
+
