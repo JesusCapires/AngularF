@@ -3,9 +3,21 @@ COMANDOS:
 	NUEVO PROYECTO:
 		ng new <nombre-proyecto> --no-standalone 
 
+	NUEVO PIPE:
+		 ng g pipe heroes/pipes/heroImage --flat --skip-tests
+
+	NUEVO COMPONENTE:
+		ng g c heroes/components/card --inline-style --skip-tests
+
 Postman: plataforma usada para probar APIS con diferentes metodos HTTP
 Giphy developers: plataforma usada para obtener la API y poder usar su GIFS
 quicktype: plataforma para modificar objeto json a código del lenguaje elegido
+
+Bajar versión de json-server:
+npm i --save-dev json-server@0.17.4
+
+DOCUMENTACIÓN DE ANGULAR:
+https://primeflex.org/
 
 PÁGINA DE SVG LOADERS
 https://samherbert.net/svg-loaders/
@@ -16,3 +28,23 @@ https://github.com/SamHerbert/SVG-Loaders/blob/master/svg-loaders/ball-triangle.
 ANIMACIONES CSS 
 https://animate.style/
 
+SECCIÓN 11
+	PIPES:
+	https://angular.io/api?query=pipe
+	
+	PRIMENG:
+	https://primeng.org/
+
+SECCIÓN 14
+
+	ANGULAR MATERIAL:
+	https://material.angular.io/
+
+	BASE DE DATOS PARA EL JSON:
+	https://gist.github.com/Klerith/e09f16f2ae9f6c9ebce6c648fc136072
+
+	NPM JSON SERVER:
+	https://www.npmjs.com/package/json-server
+
+	PRIME FLEX:
+	https://primeflex.org/
