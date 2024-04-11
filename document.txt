@@ -9,6 +9,9 @@ COMANDOS:
 	NUEVO COMPONENTE:
 		ng g c heroes/components/card --inline-style --skip-tests
 
+	BACKEND JSON:
+		Levantar backend ```npm run backend```
+
 Postman: plataforma usada para probar APIS con diferentes metodos HTTP
 Giphy developers: plataforma usada para obtener la API y poder usar su GIFS
 quicktype: plataforma para modificar objeto json a código del lenguaje elegido
