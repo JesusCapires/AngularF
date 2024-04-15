@@ -12,6 +12,8 @@ COMANDOS:
 	BACKEND JSON:
 		Levantar backend ```npm run backend```
 
+	FALTA COMPLETAR LA SECCIÓN 16
+
 Postman: plataforma usada para probar APIS con diferentes metodos HTTP
 Giphy developers: plataforma usada para obtener la API y poder usar su GIFS
 quicktype: plataforma para modificar objeto json a código del lenguaje elegido
@@ -51,3 +53,20 @@ SECCIÓN 14
 
 	PRIME FLEX:
 	https://primeflex.org/
+
+SECCIÓN 18 VALIDACIONES
+	Funciones: regresan algo.
+		Regresar 2 panoramas:
+			¿por qué falla?
+	
+	Validaciones a nivel:
+		Formulario
+		Control
+
+	Validaciones asíncronas: 
+		
+	Validaciones manuales
+	Validar contra expresiones regulares
+	Separar la lógica de Validaciones
+	Estado del formulario 
+	Mnesajes de error personalizados
